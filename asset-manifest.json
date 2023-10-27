@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/movie-guide-react-app/static/css/main.4cfe7164.css",
+    "main.js": "/movie-guide-react-app/static/js/main.86e45465.js",
+    "static/media/google-play.svg": "/movie-guide-react-app/static/media/google-play.f083c904ed56b0850dc64a4bf3749e2d.svg",
+    "static/media/apple-store.svg": "/movie-guide-react-app/static/media/apple-store.08e795d4bc1ca73a713017291180aca0.svg",
+    "static/media/phone.png": "/movie-guide-react-app/static/media/phone.3861a6899362de7119aa.png",
+    "static/media/noPoster.jpg": "/movie-guide-react-app/static/media/noPoster.6fa9daa2376d26007a55.jpg",
+    "static/media/movie-search-logo.svg": "/movie-guide-react-app/static/media/movie-search-logo.1d4c5ac1ca3da7306a7649cc7c72e51e.svg",
+    "static/media/oscar-icon.svg": "/movie-guide-react-app/static/media/oscar-icon.3cdf0c483d881bf7c534aaba750be4bb.svg",
+    "static/media/image-cinema.svg": "/movie-guide-react-app/static/media/image-cinema.cb233ac91f6e56e0f0eb4d6daac313c9.svg",
+    "index.html": "/movie-guide-react-app/index.html",
+    "static/media/play-icon.svg": "/movie-guide-react-app/static/media/play-icon.b6f2a40276ed818a31e4346589cf5ab7.svg",
+    "main.4cfe7164.css.map": "/movie-guide-react-app/static/css/main.4cfe7164.css.map",
+    "main.86e45465.js.map": "/movie-guide-react-app/static/js/main.86e45465.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cfe7164.css",
+    "static/js/main.86e45465.js"
+  ]
+}
