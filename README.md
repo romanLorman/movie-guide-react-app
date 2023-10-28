@@ -7,5 +7,5 @@ Open MovieGuide(the branch is gh-pages): [https://romanlorman.github.io/movie-gu
 
 ## Building the app
   1. Get your API from [OMDb API](https://www.omdbapi.com/)
-  2. Follow to ### movie-guide-react-app-main/src/config.js and assign your OMDb key value to ### "export const API_KEY" insted of ### "process.env.REACT_APP_API_KEY"
+  2. Follow to **movie-guide-react-app-main/src/config.js** and assign your OMDb key value to **"export const API_KEY"** insted of **"process.env.REACT_APP_API_KEY"**
      
